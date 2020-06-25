@@ -3,4 +3,4 @@
 
 -------------
 
-[DEMO](https://snack.expo.io/@tom2kota/+post)
+[DEMO on snack.expo.io](https://snack.expo.io/@tom2kota/post-context-usestate)
